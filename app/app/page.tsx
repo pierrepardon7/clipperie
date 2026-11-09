@@ -1,4 +1,3 @@
-tsx
 export default function Page() {
   return (
     <main style={{ padding: "3rem 1.5rem", maxWidth: 480, margin: "0 auto" }}>
